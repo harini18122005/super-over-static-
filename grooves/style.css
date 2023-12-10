@@ -1,0 +1,116 @@
+header{
+    background-color: black;
+    padding-left: 38%;
+    height: 45px;
+ }
+ #footerimg{
+    height: 45px;
+ }
+ .first{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/groove-bg%5B1%5D.png");
+    background-size: 100% 100%;
+ }
+ .page{
+    height: 600px;
+    padding-top: 5%;
+
+ }
+
+ h1{
+   font-size: 247%;
+    position: absolute;
+    top: 33%;
+    left: 35%
+ }
+
+ p{
+   font-size: 105%;
+    position: absolute;
+    top: 42%;
+    left: 33%;
+ }
+
+ .button{
+    background-color: rgb(71, 185, 85);
+    height: 34px;
+    width: 9%;
+    color: white;
+   position: absolute;
+   top: 51%;
+   left: 41%;
+   padding-top: 12px;
+   padding-left: 1%;
+ }
+ a{
+   text-decoration: none;
+   color: white;
+ }
+
+ h2{
+   position: absolute;
+   top: 95%;
+   left: 39%;
+ }
+
+ table{
+   position: absolute;
+   top: 104% ;
+   left:10% ;
+ }
+
+ table,th,tr,td{
+   margin: auto;
+   border: 2px solid lightgray;
+   border-spacing: 5px;
+   padding: 20px;
+   border-collapse: collapse;
+   font-size: 20px;
+
+ }
+
+#checkbox{
+   position: relative;
+   left: 42%;
+   
+}
+
+ th{
+   background-color: rgb(71, 185, 85);
+   color: white;
+ }
+
+ img{
+   position: relative;
+   left: 17%;
+   height: 35%;
+
+ }
+h3{
+  position: absolute;
+  top: 170%;
+  left: 34%;
+  text-align: center;
+}
+
+#number{
+  position: absolute;
+  top: 223%;
+  left: 45%;
+  height: 20px;
+
+}
+
+h5{
+  position: absolute;
+  top: 215%;
+  left: 43% ;
+  text-align: center;
+  font-size: larger;
+}
+
+footer{
+  position: absolute;
+  top: 227%;
+  left: 33%;
+  width: 30%;
+}
